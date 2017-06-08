@@ -3,9 +3,8 @@ Selectivity.js
 
 Modular and light-weight selection library.
 
-[![Selectivity on NPM](https://img.shields.io/npm/v/selectivity.svg)](https://www.npmjs.com/package/selectivity)
 [![Build Status](https://travis-ci.org/arendjr/selectivity.svg?branch=master)](https://travis-ci.org/arendjr/selectivity)
-[![Greenkeeper badge](https://badges.greenkeeper.io/arendjr/selectivity.svg)](https://greenkeeper.io/)
+[![Selectivity on NPM](https://img.shields.io/npm/v/selectivity.svg)](https://www.npmjs.com/package/selectivity)
 
 Setup
 -----
